@@ -16,10 +16,11 @@ export function middleware(request: NextRequest) {
 
   if (pathnameHasLocale) return;
 
-  // Skip static files and API routes
+  // Skip static files, API routes, and demo pages
   if (
     pathname.startsWith("/_next") ||
     pathname.startsWith("/api") ||
+    pathname.startsWith("/demo") ||
     pathname.includes(".")
   ) {
     return;
