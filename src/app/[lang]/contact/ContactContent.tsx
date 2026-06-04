@@ -18,11 +18,24 @@ export default function ContactContent({ dict, locale }: ContactContentProps) {
     service: "",
     message: "",
   });
+  const [sending, setSending] = useState(false);
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    alert(dict.contact.successMsg);
-    setFormData({ name: "", email: "", company: "", service: "", message: "" });
+    setSending(true);
+    try {
+      await fetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(formData),
+      });
+      alert(dict.contact.successMsg);
+      setFormData({ name: "", email: "", company: "", service: "", message: "" });
+    } catch {
+      alert("Error sending message. Please try again.");
+    } finally {
+      setSending(false);
+    }
   };
 
   return (

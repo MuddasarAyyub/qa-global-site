@@ -21,6 +21,7 @@ export function middleware(request: NextRequest) {
     pathname.startsWith("/_next") ||
     pathname.startsWith("/api") ||
     pathname.startsWith("/demo") ||
+    pathname.startsWith("/studio") ||
     pathname.includes(".")
   ) {
     return;
@@ -32,5 +33,5 @@ export function middleware(request: NextRequest) {
 }
 
 export const config = {
-  matcher: ["/((?!_next|api|demo|favicon.ico|.*\\..*).*)"],
+  matcher: ["/((?!_next|api|demo|studio|favicon.ico|.*\\..*).*)"],
 };

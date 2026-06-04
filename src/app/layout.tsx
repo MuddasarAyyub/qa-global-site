@@ -1,6 +1,9 @@
 import type { Metadata } from "next";
 import { Geist } from "next/font/google";
 import "./globals.css";
+import GoogleAnalytics from "@/components/GoogleAnalytics";
+import WhatsAppWidget from "@/components/WhatsAppWidget";
+import { Analytics } from "@vercel/analytics/react";
 
 const geist = Geist({
   variable: "--font-geist-sans",
@@ -20,7 +23,10 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${geist.variable} h-full`}>
       <body className="min-h-full flex flex-col font-sans antialiased bg-gray-950 text-white">
+        <GoogleAnalytics />
         {children}
+        <WhatsAppWidget />
+        <Analytics />
       </body>
     </html>
   );
