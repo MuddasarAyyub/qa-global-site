@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Mail, Phone, MapPin } from "lucide-react";
+import { Mail, Phone, MapPin, Bug } from "lucide-react";
 import type { Dictionary } from "@/i18n/getDictionary";
 import type { Locale } from "@/i18n/config";
 
@@ -34,15 +34,15 @@ export default function Footer({ dict, locale }: FooterProps) {
   };
 
   return (
-    <footer className="bg-dark-900 text-gray-300">
+    <footer className="bg-gray-950 text-gray-300 border-t border-gray-800">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
           <div>
             <div className="flex items-center gap-2 mb-6">
-              <div className="w-10 h-10 bg-gradient-to-br from-primary-500 to-primary-700 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-lg">Q</span>
+              <div className="w-10 h-10 bg-gradient-to-br from-primary-400 to-primary-600 rounded-lg flex items-center justify-center">
+                <Bug className="w-5 h-5 text-white" />
               </div>
-              <span className="font-bold text-xl text-white">QAGlobal</span>
+              <span className="font-bold text-xl text-white">Nulbug</span>
             </div>
             <p className="text-sm text-gray-400 mb-6 leading-relaxed">{dict.footer.description}</p>
             <div className="space-y-3 text-sm">
@@ -56,7 +56,7 @@ export default function Footer({ dict, locale }: FooterProps) {
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="w-4 h-4 text-primary-400 flex-shrink-0" />
-                <span>info@qaglobal.ae</span>
+                <span>info@nulbug.com</span>
               </div>
             </div>
           </div>
@@ -66,9 +66,7 @@ export default function Footer({ dict, locale }: FooterProps) {
             <ul className="space-y-3">
               {footerLinks.services.map((link) => (
                 <li key={link.name}>
-                  <Link href={link.href} className="text-sm text-gray-400 hover:text-primary-400 transition-colors">
-                    {link.name}
-                  </Link>
+                  <Link href={link.href} className="text-sm text-gray-400 hover:text-primary-400 transition-colors">{link.name}</Link>
                 </li>
               ))}
             </ul>
@@ -79,9 +77,7 @@ export default function Footer({ dict, locale }: FooterProps) {
             <ul className="space-y-3">
               {footerLinks.company.map((link) => (
                 <li key={link.name}>
-                  <Link href={link.href} className="text-sm text-gray-400 hover:text-primary-400 transition-colors">
-                    {link.name}
-                  </Link>
+                  <Link href={link.href} className="text-sm text-gray-400 hover:text-primary-400 transition-colors">{link.name}</Link>
                 </li>
               ))}
             </ul>
@@ -92,9 +88,7 @@ export default function Footer({ dict, locale }: FooterProps) {
             <ul className="space-y-3">
               {footerLinks.industries.map((link) => (
                 <li key={link.name}>
-                  <Link href={link.href} className="text-sm text-gray-400 hover:text-primary-400 transition-colors">
-                    {link.name}
-                  </Link>
+                  <Link href={link.href} className="text-sm text-gray-400 hover:text-primary-400 transition-colors">{link.name}</Link>
                 </li>
               ))}
             </ul>
@@ -103,13 +97,13 @@ export default function Footer({ dict, locale }: FooterProps) {
 
         <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-gray-500">
-            &copy; {new Date().getFullYear()} QAGlobal. {dict.footer.rights}
+            &copy; {new Date().getFullYear()} Nulbug. {dict.footer.rights}
           </p>
           <div className="flex items-center gap-6 text-sm text-gray-500">
             <Link href={`${prefix}/privacy`} className="hover:text-gray-300 transition-colors">{dict.footer.privacy}</Link>
             <Link href={`${prefix}/terms`} className="hover:text-gray-300 transition-colors">{dict.footer.terms}</Link>
             <div className="flex items-center gap-2">
-              <span className="w-2 h-2 bg-green-500 rounded-full"></span>
+              <span className="w-2 h-2 bg-primary-500 rounded-full"></span>
               <span>{dict.footer.certified}</span>
             </div>
           </div>

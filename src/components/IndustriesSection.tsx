@@ -19,16 +19,16 @@ export default function IndustriesSection({ dict }: IndustriesSectionProps) {
   ];
 
   return (
-    <section className="py-20 md:py-28 bg-gray-50">
+    <section className="py-20 md:py-28 bg-gray-900">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <span className="inline-block px-4 py-1.5 bg-primary-50 text-primary-600 text-sm font-medium rounded-full mb-4">
+          <span className="inline-block px-4 py-1.5 bg-primary-500/10 text-primary-400 text-sm font-medium rounded-full mb-4">
             {dict.industries.badge}
           </span>
-          <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+          <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
             {dict.industries.title}
           </h2>
-          <p className="text-lg text-gray-600 max-w-2xl mx-auto">
+          <p className="text-lg text-gray-400 max-w-2xl mx-auto">
             {dict.industries.description}
           </p>
         </div>
@@ -41,12 +41,12 @@ export default function IndustriesSection({ dict }: IndustriesSectionProps) {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.4, delay: index * 0.08 }}
-              className="group p-6 bg-white rounded-2xl border border-gray-200 hover:border-primary-200 hover:shadow-lg transition-all text-center"
+              className="group p-6 bg-gray-950 rounded-2xl border border-gray-800 hover:border-primary-500/50 hover:shadow-lg hover:shadow-primary-500/10 transition-all text-center"
             >
-              <div className="w-14 h-14 mx-auto mb-4 bg-primary-50 rounded-xl flex items-center justify-center group-hover:bg-primary-100 transition-colors">
-                <industry.icon className="w-7 h-7 text-primary-600" />
+              <div className="w-14 h-14 mx-auto mb-4 bg-primary-500/10 rounded-xl flex items-center justify-center group-hover:bg-primary-500/20 transition-colors">
+                <industry.icon className="w-7 h-7 text-primary-400" />
               </div>
-              <h3 className="font-semibold text-gray-900 mb-1">{dict.industries.items[industry.key].title}</h3>
+              <h3 className="font-semibold text-white mb-1">{dict.industries.items[industry.key].title}</h3>
               <p className="text-sm text-gray-500">{dict.industries.items[industry.key].description}</p>
             </motion.div>
           ))}

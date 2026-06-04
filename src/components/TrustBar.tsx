@@ -11,7 +11,7 @@ export default function TrustBar({ dict }: TrustBarProps) {
   ];
 
   return (
-    <section className="py-8 bg-gray-50 border-y border-gray-100">
+    <section className="py-8 bg-gray-900 border-y border-gray-800">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <p className="text-center text-sm text-gray-500 mb-6 font-medium uppercase tracking-wider">
           {dict.trust.title}
@@ -20,7 +20,7 @@ export default function TrustBar({ dict }: TrustBarProps) {
           {partners.map((partner) => (
             <div
               key={partner}
-              className="text-gray-400 font-semibold text-lg hover:text-gray-600 transition-colors cursor-default"
+              className="text-gray-600 font-semibold text-lg hover:text-gray-400 transition-colors cursor-default"
             >
               {partner}
             </div>

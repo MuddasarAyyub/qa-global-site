@@ -8,8 +8,8 @@ const geist = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "QAGlobal - Device Quality Assurance | Mobile Testing Services",
-  description: "World-class mobile testing, automation, and compliance services for global markets.",
+  title: "Nulbug - Zero Bugs. Guaranteed. | Device Testing & QA Services",
+  description: "We eliminate every bug before your device hits the market. Mobile testing, automation & compliance services worldwide.",
 };
 
 export default function RootLayout({
@@ -19,7 +19,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${geist.variable} h-full`}>
-      <body className="min-h-full flex flex-col font-sans antialiased">
+      <body className="min-h-full flex flex-col font-sans antialiased bg-gray-950 text-white">
         {children}
       </body>
     </html>
