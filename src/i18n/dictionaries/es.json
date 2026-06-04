@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "industries": "Industrias",
+    "about": "Nosotros",
+    "careers": "Carreras",
+    "contact": "Contacto",
+    "getQuote": "Solicitar presupuesto"
+  },
+  "hero": {
+    "badge": "Ahora sirviendo los mercados de EAU y CCG",
+    "title": "Su socio de confianza en",
+    "titleHighlight": "Garantía de Calidad de Dispositivos",
+    "description": "Servicios de pruebas móviles, automatización y cumplimiento de clase mundial para mercados globales. De smartphones a IoT — garantizamos que sus dispositivos funcionen perfectamente en todas partes.",
+    "cta1": "Explorar servicios",
+    "cta2": "Ver presentación",
+    "stat1Label": "Años de experiencia",
+    "stat2Label": "Socios OEM",
+    "stat3Label": "Laboratorios globales",
+    "stat4Label": "Tasa de precisión"
+  },
+  "trust": {
+    "title": "La confianza de las principales empresas tecnológicas"
+  },
+  "services": {
+    "badge": "Nuestros Servicios",
+    "title": "Soluciones de Pruebas Integrales",
+    "description": "Desde pruebas de dispositivos hasta certificación de cumplimiento, cubrimos todo el espectro de garantía de calidad para sus productos.",
+    "learnMore": "Más información",
+    "items": {
+      "mobile": {
+        "title": "Pruebas de Dispositivos Móviles",
+        "description": "Pruebas funcionales completas, UI/UX y compatibilidad en más de 5000 modelos de dispositivos para la preparación al mercado global."
+      },
+      "5g": {
+        "title": "Pruebas 5G e IoT",
+        "description": "Validación integral de conectividad 5G, protocolos IoT y ecosistemas de dispositivos inteligentes."
+      },
+      "automotive": {
+        "title": "Pruebas Automotrices",
+        "description": "Infoentretenimiento en vehículos, ADAS y pruebas de coches conectados conforme a los estándares de seguridad automotriz."
+      },
+      "automation": {
+        "title": "Soluciones de Automatización",
+        "description": "Frameworks de automatización personalizados, integración CI/CD y herramientas de prueba impulsadas por IA."
+      },
+      "compliance": {
+        "title": "Cumplimiento y Certificación",
+        "description": "Pruebas GCF, PTCRB, aceptación de operadores y cumplimiento regulatorio para la entrada en mercados regionales."
+      },
+      "performance": {
+        "title": "Pruebas de Rendimiento",
+        "description": "Duración de batería, análisis térmico, rendimiento de red y pruebas de estrés en condiciones reales."
+      }
+    }
+  },
+  "stats": {
+    "years": "Años de Excelencia",
+    "engineers": "Ingenieros Expertos",
+    "devices": "Dispositivos Probados",
+    "markets": "Mercados Atendidos"
+  },
+  "industries": {
+    "badge": "Industrias que Servimos",
+    "title": "Impulsando la Calidad en Todas las Industrias",
+    "description": "Nuestra experiencia abarca todo el ecosistema de dispositivos conectados, desde la electrónica de consumo hasta el IoT industrial.",
+    "items": {
+      "smartphones": { "title": "Smartphones y Tablets", "description": "Pruebas del ciclo de vida completo desde prototipo hasta producción masiva" },
+      "telecom": { "title": "Telecomunicaciones y 5G", "description": "Equipos de red, estaciones base y pruebas de protocolos" },
+      "automotive": { "title": "Automotriz", "description": "IVI, ADAS, V2X y sistemas de vehículos conectados" },
+      "semiconductors": { "title": "Semiconductores", "description": "Validación de chips y pruebas de plataformas" },
+      "wearables": { "title": "Wearables", "description": "Relojes inteligentes, rastreadores fitness y dispositivos AR/VR" },
+      "smarthome": { "title": "Hogar Inteligente e IoT", "description": "Electrodomésticos conectados, hubs y pruebas de ecosistemas" }
+    }
+  },
+  "global": {
+    "badge": "Presencia Global",
+    "title": "Laboratorios de Pruebas en Todo el Mundo",
+    "description": "Con oficinas y laboratorios en Medio Oriente, Asia y más allá, ofrecemos experiencia local con alcance global.",
+    "locations": "Ubicaciones Estratégicas",
+    "continents": "En 4 Continentes"
+  },
+  "cta": {
+    "title": "¿Listo para Garantizar la Calidad de sus Dispositivos?",
+    "description": "Asóciese con nosotros para servicios de pruebas de clase mundial. Obtenga un plan de pruebas personalizado para sus productos.",
+    "btn1": "Iniciar su Proyecto",
+    "btn2": "Programar una Llamada"
+  },
+  "footer": {
+    "description": "Su socio de confianza en garantía de calidad de dispositivos. Ofrecemos servicios de pruebas móviles de clase mundial en mercados internacionales.",
+    "servicesTitle": "Servicios",
+    "companyTitle": "Empresa",
+    "industriesTitle": "Industrias",
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "certified": "Certificado ISO 17025"
+  },
+  "contact": {
+    "badge": "Contáctenos",
+    "title": "Hablemos de su Proyecto",
+    "description": "Contáctenos para discutir sus necesidades de pruebas. Nuestro equipo responderá en 24 horas con una propuesta personalizada.",
+    "uaeOffice": "Oficina EAU (Sede)",
+    "ksaLab": "Laboratorio Arabia Saudita",
+    "quickResponse": "Respuesta Rápida",
+    "quickResponseDesc": "Para consultas urgentes, contáctenos por WhatsApp",
+    "formTitle": "Solicitar Presupuesto",
+    "name": "Nombre completo",
+    "email": "Correo electrónico",
+    "company": "Empresa",
+    "service": "Servicio requerido",
+    "selectService": "Seleccionar un servicio",
+    "projectDetails": "Detalles del proyecto",
+    "projectPlaceholder": "Cuéntenos sobre su proyecto, tipos de dispositivos, mercados objetivo y plazos...",
+    "submit": "Enviar solicitud",
+    "successMsg": "¡Gracias! Nos pondremos en contacto en 24 horas."
+  },
+  "about": {
+    "badge": "Nosotros",
+    "title": "Ingeniería de Calidad para un Mundo Conectado",
+    "description": "QAGlobal es una empresa líder independiente en garantía de calidad, especializada en pruebas de dispositivos móviles, validación IoT y certificación de cumplimiento. Más de 15 años de experiencia y 200+ ingenieros en todo el mundo.",
+    "missionTitle": "Nuestra Misión",
+    "missionText": "Ser el socio de calidad de confianza para cada dispositivo conectado que ingresa a los mercados globales. Combinamos experiencia técnica profunda con conocimiento local del mercado.",
+    "visionTitle": "Nuestra Visión",
+    "visionText": "Un mundo donde cada dispositivo conectado ofrece una experiencia de usuario excepcional, sin importar el mercado, operador o red.",
+    "valuesTitle": "Nuestros Valores",
+    "values": {
+      "excellence": { "title": "Excelencia", "description": "Ofrecemos servicios de pruebas de la más alta calidad con procesos certificados ISO y precisión líder en la industria." },
+      "partnership": { "title": "Colaboración", "description": "Trabajamos como una extensión de su equipo con comunicación transparente y resolución colaborativa de problemas." },
+      "precision": { "title": "Precisión", "description": "Cada caso de prueba, cada escenario, cada mercado — no dejamos nada al azar para garantizar la calidad de sus dispositivos." },
+      "innovation": { "title": "Innovación", "description": "Invertimos continuamente en herramientas de vanguardia, pruebas impulsadas por IA y automatización." }
+    },
+    "journeyTitle": "Nuestro Recorrido",
+    "certTitle": "Certificaciones y Acreditaciones"
+  },
+  "careers": {
+    "badge": "Carreras",
+    "title": "Únase a Nuestro Equipo Global",
+    "description": "Desarrolle su carrera en garantía de calidad con un equipo de 200+ ingenieros en 6 países. Siempre buscamos personas apasionadas.",
+    "whyTitle": "¿Por qué QAGlobal?",
+    "openPositions": "Posiciones Abiertas",
+    "apply": "Aplicar"
+  }
+}

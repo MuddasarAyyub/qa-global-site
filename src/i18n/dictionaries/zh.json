@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "home": "首页",
+    "services": "服务",
+    "industries": "行业",
+    "about": "关于我们",
+    "careers": "招聘",
+    "contact": "联系我们",
+    "getQuote": "获取报价"
+  },
+  "hero": {
+    "badge": "现已服务阿联酋及海湾合作委员会市场",
+    "title": "您值得信赖的",
+    "titleHighlight": "设备质量保证合作伙伴",
+    "description": "世界一流的移动测试、自动化和合规服务，面向全球市场。从智能手机到物联网——我们确保您的设备在任何地方都能完美运行。",
+    "cta1": "探索服务",
+    "cta2": "观看概览",
+    "stat1Label": "年经验",
+    "stat2Label": "OEM合作伙伴",
+    "stat3Label": "全球实验室",
+    "stat4Label": "准确率"
+  },
+  "trust": {
+    "title": "受到领先科技公司的信赖"
+  },
+  "services": {
+    "badge": "我们的服务",
+    "title": "全面的测试解决方案",
+    "description": "从设备测试到合规认证，我们为您的产品提供全方位的质量保证。",
+    "learnMore": "了解更多",
+    "items": {
+      "mobile": {
+        "title": "移动设备测试",
+        "description": "涵盖5000+设备型号的全面功能测试、UI/UX和兼容性测试，确保全球市场就绪。"
+      },
+      "5g": {
+        "title": "5G与物联网测试",
+        "description": "5G连接、物联网协议和智能设备生态系统的端到端验证，确保无缝性能。"
+      },
+      "automotive": {
+        "title": "汽车测试",
+        "description": "车载信息娱乐系统、ADAS和联网汽车测试，符合汽车行业安全标准。"
+      },
+      "automation": {
+        "title": "自动化解决方案",
+        "description": "定制测试自动化框架、CI/CD集成和AI驱动的测试工具，加速交付。"
+      },
+      "compliance": {
+        "title": "合规与认证",
+        "description": "GCF、PTCRB、运营商验收测试和区域市场准入的法规合规。"
+      },
+      "performance": {
+        "title": "性能测试",
+        "description": "电池寿命、热分析、网络性能和真实条件下的压力测试。"
+      }
+    }
+  },
+  "stats": {
+    "years": "年卓越服务",
+    "engineers": "专业工程师",
+    "devices": "已测试设备",
+    "markets": "服务市场"
+  },
+  "industries": {
+    "badge": "服务行业",
+    "title": "跨行业驱动质量",
+    "description": "我们的专业知识涵盖整个互联设备生态系统，从消费电子到工业物联网。",
+    "items": {
+      "smartphones": { "title": "智能手机与平板电脑", "description": "从原型到量产的全生命周期测试" },
+      "telecom": { "title": "电信与5G", "description": "网络设备、基站和协议测试" },
+      "automotive": { "title": "汽车", "description": "IVI、ADAS、V2X和联网汽车系统" },
+      "semiconductors": { "title": "半导体", "description": "芯片验证和平台测试" },
+      "wearables": { "title": "可穿戴设备", "description": "智能手表、健身追踪器和AR/VR设备" },
+      "smarthome": { "title": "智能家居与物联网", "description": "联网家电、网关和生态系统测试" }
+    }
+  },
+  "global": {
+    "badge": "全球布局",
+    "title": "遍布全球的测试实验室",
+    "description": "在中东、亚洲及更广泛地区设有办事处和实验室，提供本地化测试专业知识和全球覆盖。",
+    "locations": "战略位置",
+    "continents": "跨越4大洲"
+  },
+  "cta": {
+    "title": "准备好确保您的设备质量了吗？",
+    "description": "与我们合作获取世界级测试服务。为您的产品和市场需求获取定制测试计划。",
+    "btn1": "开始您的项目",
+    "btn2": "预约通话"
+  },
+  "footer": {
+    "description": "您值得信赖的设备质量保证合作伙伴。我们在全球市场提供世界一流的移动测试服务。",
+    "servicesTitle": "服务",
+    "companyTitle": "公司",
+    "industriesTitle": "行业",
+    "rights": "版权所有。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "certified": "ISO 17025认证"
+  },
+  "contact": {
+    "badge": "联系我们",
+    "title": "让我们讨论您的项目",
+    "description": "联系我们讨论您的测试需求。我们的团队将在24小时内回复定制方案。",
+    "uaeOffice": "阿联酋办公室（总部）",
+    "ksaLab": "沙特阿拉伯实验室",
+    "quickResponse": "快速响应",
+    "quickResponseDesc": "如有紧急测试咨询，请通过WhatsApp联系我们",
+    "formTitle": "获取报价",
+    "name": "姓名",
+    "email": "电子邮箱",
+    "company": "公司",
+    "service": "所需服务",
+    "selectService": "选择服务",
+    "projectDetails": "项目详情",
+    "projectPlaceholder": "告诉我们您的项目、设备类型、目标市场和时间表...",
+    "submit": "提交请求",
+    "successMsg": "谢谢！我们将在24小时内联系您。"
+  },
+  "about": {
+    "badge": "关于我们",
+    "title": "为互联世界工程质量",
+    "description": "QAGlobal是领先的独立质量保证公司，专注于移动设备测试、物联网验证和合规认证。拥有15年以上经验和200+全球工程师。",
+    "missionTitle": "我们的使命",
+    "missionText": "成为每个进入全球市场的互联设备值得信赖的质量合作伙伴。我们将深厚的技术专业知识与本地市场知识相结合。",
+    "visionTitle": "我们的愿景",
+    "visionText": "一个每个互联设备都能提供卓越用户体验的世界，无论市场、运营商或网络如何。",
+    "valuesTitle": "我们的价值观",
+    "values": {
+      "excellence": { "title": "卓越", "description": "我们通过ISO认证流程和行业领先的准确性提供最高质量的测试服务。" },
+      "partnership": { "title": "合作", "description": "我们作为您团队的延伸工作，提供透明沟通和协作解决问题。" },
+      "precision": { "title": "精准", "description": "每个测试用例、每个场景、每个市场——我们在确保设备质量方面不留任何机会。" },
+      "innovation": { "title": "创新", "description": "我们持续投资尖端工具、AI驱动测试和自动化，保持行业领先。" }
+    },
+    "journeyTitle": "我们的历程",
+    "certTitle": "认证与资质"
+  },
+  "careers": {
+    "badge": "招聘",
+    "title": "加入我们的全球团队",
+    "description": "与6个国家200+工程师的团队一起，在质量保证领域发展您的职业。我们一直在寻找充满热情的人才。",
+    "whyTitle": "为什么选择QAGlobal？",
+    "openPositions": "开放职位",
+    "apply": "申请"
+  }
+}

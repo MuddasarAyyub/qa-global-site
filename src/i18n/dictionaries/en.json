@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "industries": "Industries",
+    "about": "About",
+    "careers": "Careers",
+    "contact": "Contact",
+    "getQuote": "Get a Quote"
+  },
+  "hero": {
+    "badge": "Now Serving UAE & GCC Markets",
+    "title": "Your Trusted Partner in",
+    "titleHighlight": "Device Quality Assurance",
+    "description": "World-class mobile testing, automation, and compliance services for global markets. From smartphones to IoT — we ensure your devices work perfectly, everywhere.",
+    "cta1": "Explore Services",
+    "cta2": "Watch Overview",
+    "stat1Label": "Years Experience",
+    "stat2Label": "OEM Partners",
+    "stat3Label": "Global Labs",
+    "stat4Label": "Accuracy Rate"
+  },
+  "trust": {
+    "title": "Trusted by Leading Technology Companies"
+  },
+  "services": {
+    "badge": "Our Services",
+    "title": "Comprehensive Testing Solutions",
+    "description": "From device testing to compliance certification, we cover the full spectrum of quality assurance for your products.",
+    "learnMore": "Learn more",
+    "items": {
+      "mobile": {
+        "title": "Mobile Device Testing",
+        "description": "Comprehensive functional, UI/UX, and compatibility testing across 5000+ device models for global market readiness."
+      },
+      "5g": {
+        "title": "5G & IoT Testing",
+        "description": "End-to-end validation of 5G connectivity, IoT protocols, and smart device ecosystems ensuring seamless performance."
+      },
+      "automotive": {
+        "title": "Automotive Testing",
+        "description": "In-vehicle infotainment, ADAS, and connected car testing meeting automotive industry safety standards."
+      },
+      "automation": {
+        "title": "Automation Solutions",
+        "description": "Custom test automation frameworks, CI/CD integration, and AI-powered testing tools for accelerated delivery."
+      },
+      "compliance": {
+        "title": "Compliance & Certification",
+        "description": "GCF, PTCRB, carrier acceptance testing, and regulatory compliance for regional market entry."
+      },
+      "performance": {
+        "title": "Performance Testing",
+        "description": "Battery life, thermal analysis, network performance, and stress testing under real-world conditions."
+      }
+    }
+  },
+  "stats": {
+    "years": "Years of Excellence",
+    "engineers": "Expert Engineers",
+    "devices": "Devices Tested",
+    "markets": "Markets Served"
+  },
+  "industries": {
+    "badge": "Industries We Serve",
+    "title": "Driving Quality Across Industries",
+    "description": "Our expertise spans the entire connected device ecosystem, from consumer electronics to industrial IoT.",
+    "items": {
+      "smartphones": { "title": "Smartphones & Tablets", "description": "Full lifecycle testing from prototype to mass production" },
+      "telecom": { "title": "Telecom & 5G", "description": "Network equipment, base stations, and protocol testing" },
+      "automotive": { "title": "Automotive", "description": "IVI, ADAS, V2X, and connected vehicle systems" },
+      "semiconductors": { "title": "Semiconductors", "description": "Chipset validation and platform testing" },
+      "wearables": { "title": "Wearables", "description": "Smartwatches, fitness trackers, and AR/VR devices" },
+      "smarthome": { "title": "Smart Home & IoT", "description": "Connected appliances, hubs, and ecosystem testing" }
+    }
+  },
+  "global": {
+    "badge": "Global Presence",
+    "title": "Testing Labs Across the Globe",
+    "description": "With offices and labs across the Middle East, Asia, and beyond, we provide localized testing expertise with global reach.",
+    "locations": "Strategic Locations",
+    "continents": "Across 4 Continents"
+  },
+  "cta": {
+    "title": "Ready to Ensure Your Device Quality?",
+    "description": "Partner with us for world-class testing services. Get a customized testing plan for your product and market requirements.",
+    "btn1": "Start Your Project",
+    "btn2": "Schedule a Call"
+  },
+  "footer": {
+    "description": "Your trusted partner in device quality assurance. We deliver world-class mobile testing services across global markets.",
+    "servicesTitle": "Services",
+    "companyTitle": "Company",
+    "industriesTitle": "Industries",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "certified": "ISO 17025 Certified"
+  },
+  "contact": {
+    "badge": "Contact Us",
+    "title": "Let's Discuss Your Project",
+    "description": "Get in touch to discuss your testing requirements. Our team will respond within 24 hours with a customized proposal.",
+    "uaeOffice": "UAE Office (HQ)",
+    "ksaLab": "Saudi Arabia Lab",
+    "quickResponse": "Quick Response",
+    "quickResponseDesc": "For urgent testing inquiries, reach us on WhatsApp",
+    "formTitle": "Request a Quote",
+    "name": "Full Name",
+    "email": "Email",
+    "company": "Company",
+    "service": "Service Needed",
+    "selectService": "Select a service",
+    "projectDetails": "Project Details",
+    "projectPlaceholder": "Tell us about your project, device types, target markets, and timeline...",
+    "submit": "Send Request",
+    "successMsg": "Thank you! We will contact you within 24 hours."
+  },
+  "about": {
+    "badge": "About Us",
+    "title": "Engineering Quality for a Connected World",
+    "description": "QAGlobal is a leading independent quality assurance company specializing in mobile device testing, IoT validation, and compliance certification. With over 15 years of experience and 200+ engineers worldwide, we help technology companies deliver flawless products to global markets.",
+    "missionTitle": "Our Mission",
+    "missionText": "To be the trusted quality partner for every connected device entering global markets. We combine deep technical expertise with local market knowledge to ensure devices work perfectly for users everywhere.",
+    "visionTitle": "Our Vision",
+    "visionText": "A world where every connected device delivers an exceptional user experience, regardless of market, carrier, or network. We're building the infrastructure to make that vision a reality.",
+    "valuesTitle": "Our Values",
+    "values": {
+      "excellence": { "title": "Excellence", "description": "We deliver the highest quality testing services with ISO-certified processes and industry-leading accuracy." },
+      "partnership": { "title": "Partnership", "description": "We work as an extension of your team, providing transparent communication and collaborative problem-solving." },
+      "precision": { "title": "Precision", "description": "Every test case, every scenario, every market — we leave nothing to chance in ensuring your device quality." },
+      "innovation": { "title": "Innovation", "description": "We continuously invest in cutting-edge tools, AI-driven testing, and automation to stay ahead of the curve." }
+    },
+    "journeyTitle": "Our Journey",
+    "certTitle": "Certifications & Accreditations"
+  },
+  "careers": {
+    "badge": "Careers",
+    "title": "Join Our Global Team",
+    "description": "Build your career in quality assurance with a team of 200+ engineers across 6 countries. We're always looking for passionate people.",
+    "whyTitle": "Why QAGlobal?",
+    "openPositions": "Open Positions",
+    "apply": "Apply"
+  }
+}

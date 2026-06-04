@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "industries": "Industries",
+    "about": "À propos",
+    "careers": "Carrières",
+    "contact": "Contact",
+    "getQuote": "Demander un devis"
+  },
+  "hero": {
+    "badge": "Présent aux EAU et dans les pays du CCG",
+    "title": "Votre partenaire de confiance en",
+    "titleHighlight": "Assurance Qualité des Appareils",
+    "description": "Services de test mobile, d'automatisation et de conformité de classe mondiale pour les marchés internationaux. Des smartphones à l'IoT — nous garantissons le fonctionnement parfait de vos appareils, partout.",
+    "cta1": "Découvrir nos services",
+    "cta2": "Voir la présentation",
+    "stat1Label": "Années d'expérience",
+    "stat2Label": "Partenaires OEM",
+    "stat3Label": "Laboratoires mondiaux",
+    "stat4Label": "Taux de précision"
+  },
+  "trust": {
+    "title": "La confiance des plus grandes entreprises technologiques"
+  },
+  "services": {
+    "badge": "Nos Services",
+    "title": "Solutions de Test Complètes",
+    "description": "Du test d'appareils à la certification de conformité, nous couvrons tout le spectre de l'assurance qualité pour vos produits.",
+    "learnMore": "En savoir plus",
+    "items": {
+      "mobile": {
+        "title": "Test d'Appareils Mobiles",
+        "description": "Tests fonctionnels complets, UI/UX et compatibilité sur plus de 5000 modèles d'appareils pour la préparation au marché mondial."
+      },
+      "5g": {
+        "title": "Test 5G & IoT",
+        "description": "Validation de bout en bout de la connectivité 5G, des protocoles IoT et des écosystèmes d'appareils intelligents."
+      },
+      "automotive": {
+        "title": "Test Automobile",
+        "description": "Infodivertissement embarqué, ADAS et test de voitures connectées conformes aux normes de sécurité automobile."
+      },
+      "automation": {
+        "title": "Solutions d'Automatisation",
+        "description": "Frameworks d'automatisation personnalisés, intégration CI/CD et outils de test alimentés par l'IA."
+      },
+      "compliance": {
+        "title": "Conformité & Certification",
+        "description": "Tests GCF, PTCRB, acceptation opérateur et conformité réglementaire pour l'entrée sur les marchés régionaux."
+      },
+      "performance": {
+        "title": "Test de Performance",
+        "description": "Autonomie de batterie, analyse thermique, performance réseau et tests de stress en conditions réelles."
+      }
+    }
+  },
+  "stats": {
+    "years": "Années d'Excellence",
+    "engineers": "Ingénieurs Experts",
+    "devices": "Appareils Testés",
+    "markets": "Marchés Desservis"
+  },
+  "industries": {
+    "badge": "Industries Servies",
+    "title": "La Qualité dans Tous les Secteurs",
+    "description": "Notre expertise couvre l'ensemble de l'écosystème des appareils connectés, de l'électronique grand public à l'IoT industriel.",
+    "items": {
+      "smartphones": { "title": "Smartphones & Tablettes", "description": "Test du cycle de vie complet du prototype à la production de masse" },
+      "telecom": { "title": "Télécoms & 5G", "description": "Équipements réseau, stations de base et tests de protocoles" },
+      "automotive": { "title": "Automobile", "description": "IVI, ADAS, V2X et systèmes de véhicules connectés" },
+      "semiconductors": { "title": "Semi-conducteurs", "description": "Validation de puces et tests de plateformes" },
+      "wearables": { "title": "Objets Connectés", "description": "Montres intelligentes, trackers fitness et appareils AR/VR" },
+      "smarthome": { "title": "Maison Intelligente & IoT", "description": "Appareils connectés, hubs et tests d'écosystèmes" }
+    }
+  },
+  "global": {
+    "badge": "Présence Mondiale",
+    "title": "Des Laboratoires à Travers le Monde",
+    "description": "Avec des bureaux et laboratoires au Moyen-Orient, en Asie et au-delà, nous offrons une expertise locale avec une portée mondiale.",
+    "locations": "Emplacements Stratégiques",
+    "continents": "Sur 4 Continents"
+  },
+  "cta": {
+    "title": "Prêt à Garantir la Qualité de Vos Appareils ?",
+    "description": "Associez-vous à nous pour des services de test de classe mondiale. Obtenez un plan de test personnalisé pour vos produits.",
+    "btn1": "Démarrer Votre Projet",
+    "btn2": "Planifier un Appel"
+  },
+  "footer": {
+    "description": "Votre partenaire de confiance en assurance qualité des appareils. Nous fournissons des services de test mobile de classe mondiale sur les marchés internationaux.",
+    "servicesTitle": "Services",
+    "companyTitle": "Entreprise",
+    "industriesTitle": "Industries",
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "certified": "Certifié ISO 17025"
+  },
+  "contact": {
+    "badge": "Contactez-nous",
+    "title": "Discutons de Votre Projet",
+    "description": "Contactez-nous pour discuter de vos besoins en test. Notre équipe répondra sous 24 heures avec une proposition personnalisée.",
+    "uaeOffice": "Bureau EAU (Siège)",
+    "ksaLab": "Laboratoire Arabie Saoudite",
+    "quickResponse": "Réponse Rapide",
+    "quickResponseDesc": "Pour les demandes urgentes, contactez-nous sur WhatsApp",
+    "formTitle": "Demander un Devis",
+    "name": "Nom complet",
+    "email": "E-mail",
+    "company": "Entreprise",
+    "service": "Service souhaité",
+    "selectService": "Sélectionner un service",
+    "projectDetails": "Détails du projet",
+    "projectPlaceholder": "Parlez-nous de votre projet, types d'appareils, marchés cibles et délais...",
+    "submit": "Envoyer la demande",
+    "successMsg": "Merci ! Nous vous contacterons sous 24 heures."
+  },
+  "about": {
+    "badge": "À Propos",
+    "title": "L'Ingénierie Qualité pour un Monde Connecté",
+    "description": "QAGlobal est une entreprise leader indépendante en assurance qualité, spécialisée dans le test d'appareils mobiles, la validation IoT et la certification de conformité. Plus de 15 ans d'expérience et 200+ ingénieurs dans le monde.",
+    "missionTitle": "Notre Mission",
+    "missionText": "Être le partenaire qualité de confiance pour chaque appareil connecté entrant sur les marchés mondiaux. Nous combinons expertise technique et connaissance locale des marchés.",
+    "visionTitle": "Notre Vision",
+    "visionText": "Un monde où chaque appareil connecté offre une expérience utilisateur exceptionnelle, quel que soit le marché, l'opérateur ou le réseau.",
+    "valuesTitle": "Nos Valeurs",
+    "values": {
+      "excellence": { "title": "Excellence", "description": "Nous fournissons les services de test de la plus haute qualité avec des processus certifiés ISO." },
+      "partnership": { "title": "Partenariat", "description": "Nous travaillons comme une extension de votre équipe avec une communication transparente." },
+      "precision": { "title": "Précision", "description": "Chaque cas de test, chaque scénario, chaque marché — rien n'est laissé au hasard." },
+      "innovation": { "title": "Innovation", "description": "Nous investissons continuellement dans les outils de pointe et les tests alimentés par l'IA." }
+    },
+    "journeyTitle": "Notre Parcours",
+    "certTitle": "Certifications & Accréditations"
+  },
+  "careers": {
+    "badge": "Carrières",
+    "title": "Rejoignez Notre Équipe Mondiale",
+    "description": "Construisez votre carrière en assurance qualité avec une équipe de 200+ ingénieurs dans 6 pays. Nous recherchons toujours des personnes passionnées.",
+    "whyTitle": "Pourquoi QAGlobal ?",
+    "openPositions": "Postes Ouverts",
+    "apply": "Postuler"
+  }
+}
