@@ -4,6 +4,8 @@ import { getDictionary } from "@/i18n/getDictionary";
 import { locales, isRtl } from "@/i18n/config";
 import type { Locale } from "@/i18n/config";
 
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   return locales.map((lang) => ({ lang }));
 }
